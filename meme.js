@@ -1,4 +1,5 @@
-const fs = require('fs');
+const fs = require('fs'); //sup dude
+
 const Jimp = require('jimp');
 const path = require('path');
 
